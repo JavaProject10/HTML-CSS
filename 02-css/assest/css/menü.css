@@ -1,0 +1,17 @@
+nav.menü {
+  width: 300px;
+  background-color: gray;
+  text-align: center;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+div.active {
+  background-color: lightgray;
+  color: white;
+}
+div.baş {
+  color: gray;
+  background-color: black;
+}
